@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-26T13:44:52.394Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="NJ2ukKl-K_iDSByDkVra" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-26T13:47:54.649Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="qis86qwLmUiB4127zMEo" version="22.0.8" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="159" dy="93" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="330" dy="193" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,10 +8,10 @@
           <mxGeometry x="162" y="80" width="100" height="580" as="geometry" />
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="7baba1c4bc27f4b0-2" vertex="1">
-          <mxGeometry x="45" y="100" width="10" height="160" as="geometry" />
+          <mxGeometry x="45" y="100" width="10" height="140" as="geometry" />
         </mxCell>
         <mxCell id="qxBU3n5l8rQegy0wL79O-9" value="obtem boletos&lt;br&gt;e inf. bancaria" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=1.028;exitY=0.046;exitPerimeter=0;exitDx=0;exitDy=0;" edge="1" parent="7baba1c4bc27f4b0-2" source="7baba1c4bc27f4b0-10" target="qxBU3n5l8rQegy0wL79O-11">
-          <mxGeometry x="0.0909" y="48" relative="1" as="geometry">
+          <mxGeometry x="0.2356" y="8" relative="1" as="geometry">
             <mxPoint x="58.510000000000105" y="106.74000000000001" as="sourcePoint" />
             <mxPoint x="54.879999999999995" y="145.48000000000002" as="targetPoint" />
             <Array as="points">
@@ -26,13 +26,13 @@
         </mxCell>
         <mxCell id="qxBU3n5l8rQegy0wL79O-12" value="envia boletos e inf. bancaria" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=-0.024;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="7baba1c4bc27f4b0-2">
           <mxGeometry x="-0.0255" y="4" width="80" relative="1" as="geometry">
-            <mxPoint x="55" y="255" as="sourcePoint" />
-            <mxPoint x="205.76" y="255.197" as="targetPoint" />
+            <mxPoint x="55" y="229" as="sourcePoint" />
+            <mxPoint x="205.76" y="229.197" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qxBU3n5l8rQegy0wL79O-16" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.614;entryPerimeter=0;exitX=1.038;exitY=0.345;exitPerimeter=0;entryDx=0;entryDy=0;" edge="1" parent="7baba1c4bc27f4b0-2" target="7baba1c4bc27f4b0-10">
-          <mxGeometry x="0.0005" relative="1" as="geometry">
+        <mxCell id="qxBU3n5l8rQegy0wL79O-16" value="obtem banco" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=1.038;exitY=0.345;exitPerimeter=0;entryX=0.977;entryY=0.702;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="7baba1c4bc27f4b0-2" target="7baba1c4bc27f4b0-10">
+          <mxGeometry x="0.1025" y="2" relative="1" as="geometry">
             <mxPoint x="61" y="160" as="sourcePoint" />
             <mxPoint x="66" y="198" as="targetPoint" />
             <Array as="points">
