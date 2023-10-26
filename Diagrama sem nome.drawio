@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2023-10-26T16:38:11.319Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="l4Wl2SKE5ULGyzc7bfrR" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-26T16:40:00.258Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="4p474qfsRHgiDG87GYxR" version="22.0.8" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="133" dy="78" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7baba1c4bc27f4b0-4" value="EM.Integracao.Banco" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="522" y="80" width="330" height="740" as="geometry" />
+          <mxGeometry x="522" y="80" width="128" height="740" as="geometry" />
         </mxCell>
         <mxCell id="qxBU3n5l8rQegy0wL79O-30" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#FFFFFF;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="7baba1c4bc27f4b0-4">
           <mxGeometry x="60" y="396" width="10" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qxBU3n5l8rQegy0wL79O-46" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#FFFFFF;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="7baba1c4bc27f4b0-4">
-          <mxGeometry x="60" y="636" width="10" height="60" as="geometry" />
+          <mxGeometry x="60" y="650" width="10" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qxBU3n5l8rQegy0wL79O-55" value="loop" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=none;strokeWidth=2;" vertex="1" parent="7baba1c4bc27f4b0-4">
           <mxGeometry x="-10" y="388" width="310" height="222" as="geometry" />
@@ -43,7 +43,7 @@
           <mxGeometry x="-127" y="466" width="10" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qxBU3n5l8rQegy0wL79O-44" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="7baba1c4bc27f4b0-5">
-          <mxGeometry x="44" y="397" width="10" height="280" as="geometry" />
+          <mxGeometry x="44" y="397" width="10" height="263" as="geometry" />
         </mxCell>
         <mxCell id="qxBU3n5l8rQegy0wL79O-45" value="boletos já baixados e&amp;nbsp;&lt;br&gt;liquidados" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=0.993;exitY=0.772;exitPerimeter=0;exitDx=0;exitDy=0;entryX=1.011;entryY=0.906;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="7baba1c4bc27f4b0-5">
           <mxGeometry x="0.1879" y="11" relative="1" as="geometry">
@@ -76,7 +76,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-2" value="EM" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="162" y="80" width="360" height="690" as="geometry" />
+          <mxGeometry x="137" y="80" width="103" height="680" as="geometry" />
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="7baba1c4bc27f4b0-2" vertex="1">
           <mxGeometry x="45" y="100" width="10" height="80" as="geometry" />
@@ -241,7 +241,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qxBU3n5l8rQegy0wL79O-47" value="baixar boletos" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=-0.055;exitY=0.912;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.988;entryY=0.249;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="qxBU3n5l8rQegy0wL79O-46">
+        <mxCell id="qxBU3n5l8rQegy0wL79O-47" value="baixar boletos" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=-0.055;exitY=0.912;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.007;entryY=0.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="qxBU3n5l8rQegy0wL79O-46">
           <mxGeometry x="-0.0011" relative="1" as="geometry">
             <mxPoint x="597" y="731" as="targetPoint" />
             <mxPoint x="753" y="732" as="sourcePoint" />
