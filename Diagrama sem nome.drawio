@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-26T13:55:01.869Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="tGfvdTE6hnkqm-KUmxPd" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-26T13:58:10.829Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Ipsa8C-EIQ123cgbSwer" version="22.0.8" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="330" dy="193" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="96" dy="56" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,35 +10,21 @@
         <mxCell id="7baba1c4bc27f4b0-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="7baba1c4bc27f4b0-2" vertex="1">
           <mxGeometry x="45" y="100" width="10" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="qxBU3n5l8rQegy0wL79O-9" value="obtem boletos&lt;br&gt;e inf. bancaria" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=1.028;exitY=0.046;exitPerimeter=0;exitDx=0;exitDy=0;" edge="1" parent="7baba1c4bc27f4b0-2" source="7baba1c4bc27f4b0-10" target="qxBU3n5l8rQegy0wL79O-11">
+        <mxCell id="qxBU3n5l8rQegy0wL79O-9" value="obtem boletos&lt;br&gt;e inf. bancaria" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=1.028;exitY=0.046;exitPerimeter=0;exitDx=0;exitDy=0;entryX=1.037;entryY=0.326;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="7baba1c4bc27f4b0-2" source="7baba1c4bc27f4b0-10" target="7baba1c4bc27f4b0-10">
           <mxGeometry x="0.2356" y="8" relative="1" as="geometry">
             <mxPoint x="58.510000000000105" y="106.74000000000001" as="sourcePoint" />
-            <mxPoint x="54.879999999999995" y="145.48000000000002" as="targetPoint" />
+            <mxPoint x="61" y="145" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="110" y="107" />
-              <mxPoint x="110" y="145" />
+              <mxPoint x="110" y="106" />
+              <mxPoint x="110" y="146" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="qxBU3n5l8rQegy0wL79O-11" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="7baba1c4bc27f4b0-2">
-          <mxGeometry x="51" y="138" width="10" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qxBU3n5l8rQegy0wL79O-12" value="envia boletos e inf. bancaria" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=-0.024;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="7baba1c4bc27f4b0-2">
           <mxGeometry x="-0.0255" y="4" width="80" relative="1" as="geometry">
             <mxPoint x="55" y="229" as="sourcePoint" />
             <mxPoint x="205.76" y="229.197" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qxBU3n5l8rQegy0wL79O-16" value="obtem banco" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=1.038;exitY=0.345;exitPerimeter=0;entryX=0.977;entryY=0.702;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="7baba1c4bc27f4b0-2" target="7baba1c4bc27f4b0-10">
-          <mxGeometry x="0.1025" y="2" relative="1" as="geometry">
-            <mxPoint x="61" y="160" as="sourcePoint" />
-            <mxPoint x="66" y="198" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="116" y="160" />
-              <mxPoint x="116" y="198" />
-            </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
