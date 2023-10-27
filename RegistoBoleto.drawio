@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-27T16:43:20.291Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="peBxsYEIUY3WNvDprrcz" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-27T16:44:09.681Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="tmj50jqI-LWvGGOnWC8X" version="22.0.8" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="398" dy="234" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="229" dy="135" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -224,10 +224,10 @@
             <mxPoint x="829.45" y="836.5120000000001" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qxBU3n5l8rQegy0wL79O-42" value="cancela boletos" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0.012;entryY=-0.001;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.014;exitY=0.52;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" source="qxBU3n5l8rQegy0wL79O-30">
+        <mxCell id="qxBU3n5l8rQegy0wL79O-42" value="cancela boletos" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=0.96;exitY=0.536;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.02;entryY=0.057;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry x="0.1127" y="5" relative="1" as="geometry">
-            <mxPoint x="669.8499999999999" y="789.8800000000001" as="sourcePoint" />
-            <mxPoint x="831.1200000000001" y="789.9490000000001" as="targetPoint" />
+            <mxPoint x="668.6" y="790" as="sourcePoint" />
+            <mxPoint x="830.8" y="789.9069999999999" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
